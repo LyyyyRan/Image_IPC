@@ -1,4 +1,4 @@
-# Image_IPC
+# Image-IPC
 
 # Abstract
 

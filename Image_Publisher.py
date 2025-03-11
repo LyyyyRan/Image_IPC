@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 11 21:55:20 2025
 
-@author: lenovo
+@author: LyyyyRan
 """
 
 import cv2 as cv
