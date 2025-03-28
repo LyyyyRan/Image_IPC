@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Mar 28 15:48 2025
+
+@author: https://github.com/LyyyyRan/Image_IPC.git
+"""
+
 from __future__ import print_function
 
 import socket
