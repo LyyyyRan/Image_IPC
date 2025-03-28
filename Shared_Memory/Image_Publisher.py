@@ -5,6 +5,8 @@ Created on Tue Mar 11 21:55:20 2025
 @author: LyyyyRan
 """
 
+from __future__ import print_function
+
 import cv2 as cv
 import numpy as np
 from multiprocessing import shared_memory
