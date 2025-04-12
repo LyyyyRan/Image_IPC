@@ -32,7 +32,7 @@ try:
     memory = shared_memory.SharedMemory(name=topic_name, create=False)
 except Exception as e:
     print('Lyyy Err:', e)
-    print('Lyyy Warning: Never Creating Subscribers before the Publisher!!!')
+    print('Lyyy Warning: Never Creat Subscribers before the Publisher!!!')
     exit()
 
 # Main:
