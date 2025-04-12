@@ -56,7 +56,7 @@ while True:
             buffer[:] = image[:]  # Send Msg to the Topic
         except Exception as e:
             print('Lyyy Err:', e)
-            print('Lyyy Warning: Never Creating Subscribers before the Publisher!!!')
+            print('Lyyy Warning: Never Creat Subscribers before the Publisher!!!')
     else:
         print('LyyyyRan: Failed to Read')
         break
